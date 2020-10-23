@@ -19,3 +19,7 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+
+// Project Console: https://console.firebase.google.com/project/facebook-clone-e210f/overview
+// Hosting URL: https://facebook-clone-e210f.web.app
